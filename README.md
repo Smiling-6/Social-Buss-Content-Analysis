@@ -22,7 +22,7 @@ Insights Generation – Identified top-performing categories
 ### Healthy Eating
 ### Technology
 ### Food
-# output
+# Output
 ### Most Active Month: January
 ### Highest engagement observed in Animal-related content
 ### Average ~100 reactions per day
